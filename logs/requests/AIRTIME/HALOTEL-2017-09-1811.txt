@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ws.vpg.viettel.com/">
+<SOAP-ENV:Body>
+<ns1:send>
+<data>&lt;DATA&gt;
+&lt;MTI&gt;0200&lt;/MTI&gt;
+&lt;MSISDN&gt;0629228693&lt;/MSISDN&gt;
+&lt;PROCESS_CODE&gt;000000&lt;/PROCESS_CODE&gt;
+&lt;TRANS_AMOUNT&gt;500&lt;/TRANS_AMOUNT&gt;
+&lt;TRANS_TIME&gt;20170918111531&lt;/TRANS_TIME&gt;
+&lt;SYSTEM_TRACE&gt;020170918111531&lt;/SYSTEM_TRACE&gt;
+&lt;CLIENT_ID&gt;greentel&lt;/CLIENT_ID&gt;
+&lt;SIGNATURE&gt;cCI5C9GphwKhpB72z1mOqsi3WImuSMh8V0b59AQSgdEa2aacVzTHn5gAVM5Pf20FCAScom/9Mwd7bEAIlCcPGFzpILX7vNtmSp5ZvNkrVWnKy7yyuADFd2loLdJ5tbzlF28spfKdEU98/2Nkd7fW6G5vfHdJm8dB2xxIFQVuok0=&lt;/~TURE&gt;&lt;ADD_DATA&gt;&lt;/ADD_DATA&gt;
+&lt;/DATA&gt;</data>
+</ns1:send>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope> 
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://ws.vpg.viettel.com/">
+<SOAP-ENV:Body>
+<ns1:send>
+<data>&lt;DATA&gt;
+&lt;MTI&gt;0200&lt;/MTI&gt;
+&lt;MSISDN&gt;0629228693&lt;/MSISDN&gt;
+&lt;PROCESS_CODE&gt;000000&lt;/PROCESS_CODE&gt;
+&lt;TRANS_AMOUNT&gt;500&lt;/TRANS_AMOUNT&gt;
+&lt;TRANS_TIME&gt;20170918113204&lt;/TRANS_TIME&gt;
+&lt;SYSTEM_TRACE&gt;020170918113204&lt;/SYSTEM_TRACE&gt;
+&lt;CLIENT_ID&gt;greentel&lt;/CLIENT_ID&gt;
+&lt;SIGNATURE&gt;Qk2NiLhFf78iiMeninLu4SPYgQWrWoXz+JSL7Dun98wW1lJgGGR+YJSnR+4+MaWy+89OwPohGEmwOCLRzaNq/rQR4RnGfp39Oa1Aulih7D0+CQSjGLe6hOKMtZoCxkPP+h/hUk1rM0PvPS0VX4hgnrfuq0uvcKX8OfExTLqQPMo=&lt;/~TURE&gt;&lt;ADD_DATA&gt;&lt;/ADD_DATA&gt;
+&lt;/DATA&gt;</data>
+</ns1:send>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope> 

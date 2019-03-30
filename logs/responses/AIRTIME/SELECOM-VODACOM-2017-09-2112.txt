@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>17CE26C1A6D141DF56CC</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6165199762</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>SUCCESS</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>000</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Airtime recharge
+Reference 6165199762
+Phone 0768363333
+Amount TZS 10,000
+Vendor GREENTELECOM
+
+Powered by Selcom</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>059A2C2D82F815C1EEC6</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6165205169</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>SUCCESS</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>000</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Airtime recharge
+Reference 6165205169
+Phone 0768363333
+Amount TZS 500
+Vendor GREENTELECOM
+
+Powered by Selcom</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 

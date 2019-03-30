@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>12555898866</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6152211349</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid recharge amount. Amount should be between TZS 500 and TZS 500,000.</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>013</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+    <member>
+     <name>comment</name>
+     <value>
+      <string>Repeat transaction ID 12555898866</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>12555898866</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6152211349</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid recharge amount. Amount should be between TZS 500 and TZS 500,000.</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>013</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+    <member>
+     <name>comment</name>
+     <value>
+      <string>Repeat transaction ID 12555898866</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>12555812866</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6153854912</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid recharge amount. Amount should be between TZS 500 and TZS 500,000.</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>013</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>1505305166</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6153860242</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid customer phone number.</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>995</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>1505305293</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6153862735</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid customer phone number.</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>995</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>1505306294</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6153878795</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid customer phone number.</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>995</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>1505306514</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6153882854</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid customer phone number.</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>995</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>1505307389</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6153897267</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid customer phone number.</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>995</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>92EB12E4466DC07440BA</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6164165311</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>SUCCESS</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>000</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Airtime recharge
+Reference 6164165311
+Phone 0786976896
+Amount TZS 1,000
+Vendor GREENTELECOM
+
+Powered by Selcom</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:sendResponse xmlns:ns2="http://ws.vpg.viettel.com/"><return>&lt;DATA&gt;
+&lt;MTI&gt;0210&lt;/MTI&gt;
+&lt;MSISDN&gt;255628879500&lt;/MSISDN&gt;
+&lt;PROCESS_CODE&gt;000000&lt;/PROCESS_CODE&gt;
+&lt;TRANS_AMOUNT&gt;1000&lt;/TRANS_AMOUNT&gt;
+&lt;SIGNATURE&gt;kXLOVcuqliskTknUvJ1UpaSPO47w0OHu9kPN0ByooT1xQt7U1wD9GQvWKy3e9WFLQuSNcCQxvVc3KTocTzEWUae9dhVH3mXrmMYeZO9I3DVRETSe5i9wQ1x9Do/3A+D7j/vT8TKiRGviN/V5Pwcfdyvm5PSp4T/DpRno7oV5BZU=&lt;/SIGNATURE&gt;
+&lt;RESPONSE_CODE&gt;00&lt;/RESPONSE_CODE&gt;
+&lt;TRANS_TIME&gt;20170921164447&lt;/TRANS_TIME&gt;
+&lt;SYSTEM_TRACE&gt;020170921044447&lt;/SYSTEM_TRACE&gt;
+&lt;CLIENT_ID&gt;greentel&lt;/CLIENT_ID&gt;
+&lt;/DATA&gt;</return></ns2:sendResponse></S:Body></S:Envelope> 

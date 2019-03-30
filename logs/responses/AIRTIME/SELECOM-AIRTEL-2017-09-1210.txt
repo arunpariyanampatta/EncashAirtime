@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <struct>
+    <member>
+     <name>transid</name>
+     <value>
+      <string>1255566</string>
+     </value>
+    </member>
+    <member>
+     <name>reference</name>
+     <value>
+      <string>6152141421</string>
+     </value>
+    </member>
+    <member>
+     <name>message</name>
+     <value>
+      <string>Invalid recharge amount. Amount should be between TZS 500 and TZS 500,000.</string>
+     </value>
+    </member>
+    <member>
+     <name>resultcode</name>
+     <value>
+      <string>013</string>
+     </value>
+    </member>
+    <member>
+     <name>result</name>
+     <value>
+      <string>FAIL</string>
+     </value>
+    </member>
+   </struct>
+  </value>
+ </param>
+</params>
+</methodResponse>
+ 

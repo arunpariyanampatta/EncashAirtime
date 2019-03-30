@@ -1,0 +1,6 @@
+<?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:sendResponse xmlns:ns2="http://ws.vpg.viettel.com/"><return>&lt;DATA&gt;
+&lt;RESPONSE_CODE&gt;11&lt;/RESPONSE_CODE&gt;
+&lt;/DATA&gt;</return></ns2:sendResponse></S:Body></S:Envelope> 
+<?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:sendResponse xmlns:ns2="http://ws.vpg.viettel.com/"><return>&lt;DATA&gt;
+&lt;RESPONSE_CODE&gt;11&lt;/RESPONSE_CODE&gt;
+&lt;/DATA&gt;</return></ns2:sendResponse></S:Body></S:Envelope> 
